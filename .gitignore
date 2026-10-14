@@ -1,0 +1,24 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# Dataset images
+Age_Dataset_Split/
+Dataset/
+Dataset_Split/
+
+# Trained models
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Generated output images
+*_area_estimate.jpg
